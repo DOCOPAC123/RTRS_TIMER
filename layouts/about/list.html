@@ -1,8 +1,7 @@
 {{ partial "header.html" . }}
 
-{{ partial "page-title.html" . }}
+{{ partial "products_title.html" . }}
 
-{{ "<!-- Company Description Section Start -->" | safeHTML }}
 <section class="company-description">
     <div class="container">
         <div class="row">
@@ -11,10 +10,10 @@
             </div>
             <div class="col-md-6">
                 <div class="block">
-                    {{ with .Site.Data.about.title }}<h3 class="subtitle wow fadeInUp" data-wow-delay=".3s" data-wow-duration="500ms">{{ . }}</h3>{{ end }}
+                    {{ with .Site.Data.about.title }}<h3 class="subtitle wow fadeInUp" data-wow-delay=".3s"
+                        data-wow-duration="500ms">{{ . }}</h3>{{ end }}
                     {{ with .Site.Data.about.description }}
                     <p class="wow fadeInUp" data-wow-delay=".5s" data-wow-duration="500ms">
-                        {{ . | safeHTML }}
                     </p>
                     {{ end }}
                 </div>
@@ -23,7 +22,6 @@
     </div>
 </section>
 
-{{ "<!--  Company Feature Section Start -->" | safeHTML }}
 <section class="about-feature clearfix">
     <div class="container-fluid">
         <div class="row">
@@ -39,11 +37,10 @@
         </div>
     </div>
 </section>
-{{ "<!--  Company Feature Section End -->" | safeHTML }}
-
-{{ partial "team.html" . }}
-
-{{ partial "clients.html" . }}
+{{/*
+{{ partial "team.html" . }} */}}
+{{/*
+{{ partial "clients.html" . }} */}}
 
 {{ partial "cta.html" . }}
 

@@ -1,10 +1,10 @@
 ---
-title: "Shopping Bag Concept"
+title: "Build dashboards on the fly"
 type: portfolio
-date: 2018-07-12T16:58:55+06:00
-caption: Conceptual Design
-image: images/portfolio/item-5.jpg
-category: ["bag","mockup"]
+date: 2018-07-12T16:57:54+06:00
+caption: Helps you to visualize and analyze your data
+image: images/portfolio/item-4.jpg
+category: ["fashion","package"]
 liveLink: https://www.themefisher.com
 client: Julia Robertson
 submitDate: November 20, 2017

@@ -1,10 +1,10 @@
 ---
-title: "Dew Drop"
+title: "Segment users automatically"
 type: portfolio
-date: 2018-07-12T16:53:54+06:00
-caption: Redesigns UI Concept
-image: images/portfolio/item-1.jpg
-category: ["typography","letters"]
+date: 2018-07-12T16:58:55+06:00
+caption: Enables your user segmentation strategy and helps in selecting the target audience
+image: images/portfolio/item-5.jpg
+category: ["bag","mockup"]
 liveLink: https://www.themefisher.com
 client: Julia Robertson
 submitDate: November 20, 2017

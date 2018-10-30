@@ -1,10 +1,10 @@
 ---
-title: "Caramel Bottle"
+title: "Promote Products"
 type: portfolio
-date: 2018-07-12T16:59:54+06:00
-caption: Product Design
-image: images/portfolio/item-6.jpg
-category: ["product","mockup","design"]
+date: 2018-07-12T16:54:54+06:00
+caption: Promote different products and services based on insights
+image: images/portfolio/item-2.jpg
+category: ["mockup","design"]
 liveLink: https://www.themefisher.com
 client: Julia Robertson
 submitDate: November 20, 2017

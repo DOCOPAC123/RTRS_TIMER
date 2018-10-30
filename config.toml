@@ -17,8 +17,8 @@ theme = "timer-hugo"
         url     = "/quickstart"
         weight  = 3
     [[menu.nav]]
-        name    = "Gallery"
-        url     = "/gallery"
+        name    = "Usecases"
+        url     = "/usecases"
         weight  = 4
     [[menu.nav]]
         name    = "Blog"

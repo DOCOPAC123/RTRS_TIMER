@@ -21,8 +21,8 @@ theme = "timer-hugo"
         url     = "/usecases"
         weight  = 4
     [[menu.nav]]
-        name    = "Blog"
-        url     = "/blog"
+        name    = "Documentation"
+        url     = "/documentation"
         weight  = 5
     [[menu.nav]]
         name    = "Contact"

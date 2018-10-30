@@ -13,8 +13,8 @@ theme = "timer-hugo"
         url     = "/about"
         weight  = 2
     [[menu.nav]]
-        name    = "Service"
-        url     = "/service"
+        name    = "Quickstart"
+        url     = "/quickstart"
         weight  = 3
     [[menu.nav]]
         name    = "Gallery"
